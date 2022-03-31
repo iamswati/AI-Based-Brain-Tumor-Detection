@@ -1,7 +1,7 @@
-# Brain-Tumor-Prediction [View](https://nostalgic-wright-bf9840.netlify.app/)
+# AI Based Brain Tumor Detection [View](https://nostalgic-wright-bf9840.netlify.app/)
 
-The following repository deals with the notebook of Brain Tumor Prediction and built a predictive system.
-The main objective of our project:
+The following repository deals with the notebook of 'AI Based Brain Tumor Detection' using different ML algorithms.
+The main objective of this project:
 * To understand the Image data
 * To understand the basic concept of the project
 * To detect the right MRI scan images by using ML model
