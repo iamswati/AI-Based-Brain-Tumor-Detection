@@ -1,6 +1,10 @@
 # Brain-Tumor-Prediction [View](https://nostalgic-wright-bf9840.netlify.app/)
 
 The following repository deals with the notebook of Brain Tumor Prediction and built a predictive system.
+The main objective of our project:
+* To understand the Image data
+* To understand the basic concept of the project
+* To detect the right MRI scan images by using ML model
 
 
 * [Click Here](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri) to see Data Source
